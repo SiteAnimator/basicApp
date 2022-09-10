@@ -2,11 +2,11 @@
     @package    SiteAnimator\Modules\BasicApp
 
     file:       basicApp.js
-    function:   this file contains a bare structure
-                of a basic application module.
-                Logs 'Hello World'.
+    function:   this file contains the bare structure
+                of an application module.
+                Logs 'Hello World' after page load.
                 
-    Last revision: 09-05-2022
+    Last revision: 10-09-2022
  
 */    
 
