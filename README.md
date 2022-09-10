@@ -9,4 +9,5 @@ Logs 'Hello World' on page load.
 
 
 Learn more about SiteAnimator: https://siteanimator.nl/en/about-site-animator
+
 Learn more about Javascript modules: https://siteanimator.nl/en/blog
